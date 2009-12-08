@@ -1,0 +1,769 @@
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 14:42:06) [GET]
+Rendering dice/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://192.168.1.10/dice]
+
+
+Processing ApplicationController#index (for 192.168.1.60 at 2009-12-08 14:42:26) [GET]
+
+ActionController::RoutingError (No route matches "/dice/index.html" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 14:42:36) [GET]
+Rendering dice/index
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 14:42:52) [GET]
+Rendering dice/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/index]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:42:59) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:53:29) [GET]
+Rendering dice/shake
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 14:53:33) [GET]
+Rendering dice/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:53:37) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:54:54) [GET]
+Rendering dice/shake
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:48) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:49) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:49) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:50) [GET]
+Rendering dice/shake
+Completed in 50ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:50) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:55:50) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:12) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:13) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:13) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:14) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:15) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:15) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:15) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:15) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:15) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:16) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:16) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:16) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:16) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:17) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 47ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:18) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:19) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:20) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 14:56:20) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 14:58:05) [GET]
+Rendering dice/index
+Completed in 20ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:40) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:41) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:43) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:45) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:47) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:49) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:52) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:53) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:00:55) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:14) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:15) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:15) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:16) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:16) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:16) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:17) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:17) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:17) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:18) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:18) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:19) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:20) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:20) [GET]
+Rendering dice/shake
+Completed in 15ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:21) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:21) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:22) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:22) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:23) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:24) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:24) [GET]
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:25) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:26) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:27) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:28) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:28) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:29) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:32) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:33) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:35) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:37) [GET]
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:39) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:42) [GET]
+Rendering dice/shake
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:43) [GET]
+Rendering dice/shake
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:01:51) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:02:06) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:02:07) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:02:09) [GET]
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:02:11) [GET]
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:10:34) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:10:36) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 15:10:41) [GET]
+Rendering template within layouts/dice
+Rendering dice/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 15:38:12) [GET]
+Rendering template within layouts/dice
+Rendering dice/index
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+
+
+Processing DiceController#index (for 192.168.1.60 at 2009-12-08 15:38:30) [GET]
+Rendering template within layouts/dice
+Rendering dice/index
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://192.168.1.10/dice/]
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (124.7ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (122.5ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (117.7ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (124.6ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT version FROM "schema_migrations"[0m
+  [4;36;1mSQL (65.0ms)[0m   [0;1mINSERT INTO "schema_migrations" (version) VALUES ('0')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateDices (20091208062125)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("dices")[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (113.3ms)[0m   [0;1mCREATE TABLE "dices" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.5ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (110.1ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (122.8ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT version FROM "schema_migrations"[0m
+  [4;36;1mSQL (65.1ms)[0m   [0;1mINSERT INTO "schema_migrations" (version) VALUES ('20091208062125')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (138.0ms)[0m   [0;1mCREATE TABLE "dices" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.7ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (122.4ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (122.8ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT version FROM "schema_migrations"[0m
+  [4;36;1mSQL (65.0ms)[0m   [0;1mINSERT INTO "schema_migrations" (version) VALUES ('20091208062125')[0m
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:56:59) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:02) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:03) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:05) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:21) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:23) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:24) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:25) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:25) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:26) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:26) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:27) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:28) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:28) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:29) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:29) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:30) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:30) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:31) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:32) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:32) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:33) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:34) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
+
+
+Processing DiceController#shake (for 192.168.1.60 at 2009-12-08 15:57:34) [GET]
+Rendering template within layouts/dice
+Rendering dice/shake
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://192.168.1.10/dice/shake]
