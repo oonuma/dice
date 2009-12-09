@@ -1,1 +1,6 @@
-<%= link_to("サイコロを振る", :action => "shake") %>
+<h2>最新5件の結果</h2>
+<ul>
+	<% @rolls.each do |roll| -%>
+		<li><%= roll.value %></li>
+		<% end -%>
+</ul>

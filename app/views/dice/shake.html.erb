@@ -1,2 +1,4 @@
-<%= message="さいころの目は#{rand(6).next}です。" %>
+<%= message="さいころの目は#{@result}です。" %>
+
 <%= link_to("リトライ", :action => "shake") %>
+<%= link_to("戻る", :action => "index") %>
